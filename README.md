@@ -38,7 +38,7 @@
   - 点击上方的链接，或者在文件列表的右上方绿色按钮`Clone or Download`点开后选择`Download ZIP`。白嫖党建议使用。
   - 使用 git 直接克隆整个文档库。如果想要对这个项目贡献文件，建议使用。参考教程点击[这个](https://www.liaoxuefeng.com/wiki/896043488029600)。
 - 我想要上传文件。
-  - 参考[文件提交须知.md](https://github.com/HydrogenDeuterium/NJTU-courses/blob/master/文档/文件提交须知.md)（还处于施工中，还没有完成撰写）
+  - 参考[文件提交须知.md](/文档/文件提交须知.md)
 - 我对这个项目有意见想要吐槽。
   - 点击网页最上方的 `Issue`，这里可以视为项目的评论区，你可以点击New Issue来发布一条新贴。
 
