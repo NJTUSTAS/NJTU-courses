@@ -10,11 +10,9 @@
 >
 > ————浙大共享计划，前言
 
-感谢 github@[wuyudi](https://github.com/wuyudi)，这两个库的贡献者，以及本库的所有贡献者。本仓库完全公益，所有文件都是手工整理的。欢迎提交[issues](https://github.com/HydrogenDeuterium/NJTU-courses/issues) 和其它文件。
+感谢 github@[wuyudi](https://github.com/wuyudi)，这两个库的贡献者，以及本库的所有贡献者。本仓库完全公益，所有文件都是手工整理的。欢迎提交[issues](https://github.com/HydrogenDeuterium/NJTU-courses/issues) 和其它文件。目前本仓库的数据信息是手动进行的，每两周维护一次。
 
 ## 收录范围
-
-
 
 本仓库将会收纳按照学院分类的各学科的相关信息，如下：
 
@@ -62,4 +60,4 @@
 
 
 
-[^teachers]:为表避嫌，请在涉及主观评价时请尽量不要使用全名，以防水表，感激不尽。
+[^teachers]:为表避嫌，请在涉及主观评价时请尽量不要使用全名，而是使用【姓氏+名字拼音首字母大写】的形式，以防水表，感激不尽。
